@@ -5,9 +5,9 @@ This tool replaces the old method of manually converting data files.
 
 To Dos:
 
-  Add dialog box for com port selection
+    Add dialog box for com port selection
   
-  3d visualization ?  would require moving to different gfx package
+    3d visualization ?  would require moving to different gfx package
 
 To use the tool:
   1. Connect to central data receiver via serial > usb 
