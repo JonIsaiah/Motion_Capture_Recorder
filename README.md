@@ -4,7 +4,9 @@ Motion capture recorder tool developed for use with the wearable wireless sensor
 This tool replaces the old method of manually converting data files.
 
 To Dos:
+
   Add dialog box for com port selection
+  
   3d visualization ?  would require moving to different gfx package
 
 To use the tool:
