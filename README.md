@@ -15,7 +15,7 @@ To use the tool:
   3. edit top of MotionRecorder.py to reflect the correct COM port
   4. ensure that the header file from your chosen sim-body .mot file is present in the same folder
   5. Open the motion recorder app (python MotionRecorder.py)
-  6. You may need to remove your usb and re-plug to facilitate connection to data stream
+  6. You may need to remove your usb and re-plug to facilitate connection to data stream, you will see a text notification when the data stream is aquired, and the motion preview visualization should go live
   7. Press the Start Recording button to begin recording data
   8. When ready, Press the Stop Recording button to stop recording data
   9. The motion data will be converted automatically into opensim .mot format and will appear in the directory, the file will be named OutputFile.mot, rename the file to something descriptive
