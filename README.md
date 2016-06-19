@@ -19,3 +19,4 @@ To use the tool:
   7. Press the Start Recording button to begin recording data
   8. When ready, Press the Stop Recording button to stop recording data
   9. The motion data will be converted automatically into opensim .mot format and will appear in the directory, the file will be named OutputFile.mot, rename the file to something descriptive
+  10. The resulting .mot file is now ready for OpenSim!
